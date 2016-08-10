@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatRemoteMsg</string>
+    <string name="action_settings">Settings</string>
+    <string name="key_send_enter" translatable="false">Enviar com enter</string>
+    <string name="pref_send_label">Enviar com enter</string>
+    <string name="pref_send_default" translatable="false">Não</string>
+    <string name="pref_send_sim" translatable="false">Sim</string>
+
+</resources>
